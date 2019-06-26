@@ -1,14 +1,14 @@
-# Scratch And Win
+# Contact
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-ScratchAndWin.svg)](https://github.com/S-ayanide/Flutter-ScratchAndWin/issues)
 [![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-ScratchAndWin.svg?style=social)](https://github.com/S-ayanide/Flutter-ScratchAndWin/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-ScratchAndWin.svg?style=social)](https://github.com/S-ayanide/Flutter-ScratchAndWin/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-ScratchAndWin.svg?style=popout)](https://github.com/S-ayanide/Flutter-ScratchAndWin/blob/master/LICENSE)
 
-A simple Scratch and Win App where you have a grid of 25 blocks out of which only one block has the prize. Good Luck finding out which one. 😉👌
+This application works like any other contact list where people can add contact(with details like name, email, contact photo etc) which will be registered on a firebase database 👥
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Short Description
-This Flutter app allows the user to select any 5 block from the total 25 present out of which only one has the prize. If you figure out which block it is on or before 5th try then you win, else you lose and the game will reset itself. It's a game of Luck. Good Luck!
+Created a Flutter Contact Application, this works like any other contact list where people can add contact(with details like name, email, contact photo etc) which will be registered on a firebase database, after adding the contact user can call, edit the details, message and also delete the contact as per their wish.
 
 ## Screenshots
 <img src="images/Capture1.PNG"
