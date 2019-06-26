@@ -11,25 +11,25 @@ This application works like any other contact list where people can add contact(
 Created a Flutter Contact Application, this works like any other contact list where people can add contact(with details like name, email, contact photo etc) which will be registered on a firebase database, after adding the contact user can call, edit the details, message and also delete the contact as per their wish.
 
 ## Screenshots
-<img src="images/Capture1.PNG"
+<img src="images/Capture1.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="images/Capture2.PNG"
+     width="200"/> <img src="images/Capture2.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="images/Capture3.PNG"
+     width="200"/> <img src="images/Capture3.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/2eKf5GwmUd2SBFHkMz/200w_d.gif"
+     width="200"/> <img src="images/Capture4.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/2sfDYwLZWJa3vzcKmG/200w_d.gif"
+     width="200"/> <img src="images/Capture5.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/fQAxC8cuFEbA0f5tql/200w_d.gif"
+     width="200"/> <img src="images/Contact.gif"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/>
+     width="200"/> 
      
 ## NOTE:
 This project is subject to change by the developer and is still in development
