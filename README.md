@@ -59,7 +59,8 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 [🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-Contact.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-Contact)
 
 ## License 
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-Contact.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-Contact/blob/master/LICENSE)```Copyright 2019 Sayan Mondal
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-Contact.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-Contact/blob/master/LICENSE)
+```Copyright 2019 Sayan Mondal
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
